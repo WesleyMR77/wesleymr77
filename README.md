@@ -1,11 +1,11 @@
 ### Olá, me chamo Wesley Monaris Rodrigues
 ### Seja muito Bem-vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando como Analista de Sistemas;
+- 🔭 Atualmente estou trabalhando como Analista de Sistemas Home Office;
 - 🌱 Atualmente estou aprendendo sobre as tecnologias React, Python e Delphi;
 - 👯 Estou procurando colaborar em projetos que contribuam para facilitar a vida da sociedade de alguma forma, no meu atual trabalho faço integrações com API, corrijo bugs de sistema e adiciono novas funcionalidades;
-- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/wesley-rodrigues-9aa965180/ ou wesleymonare@hotmail.com;
-- 😄 Pronomes: Nova Andradina - MS - Brasil;
+- 📫 Contatos: https://www.linkedin.com/in/wesley-rodrigues-9aa965180/ ou wesleymonare@hotmail.com;
+- 😄 Cidade: Nova Andradina - MS - Brasil;
 - ⚡ Curiosidade: Sou Cristão, sou apaixonado por desenvolvimento e tecnologias no geral, sou motivado pela forma como a tecnologia facilita a vida das pessoas.
 
 
